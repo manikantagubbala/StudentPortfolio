@@ -1,0 +1,90 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>StudentPortfolio</title>
+</head>
+<body>
+    <body bgcolor="lightgray">
+        <div>
+            <h1 align="center">GUBBALA BHUVANA MANIKANTA</h1>
+        </div>
+
+        <div>
+
+            <div>
+                <h2><b>Objective</b></h2>
+        <hr>
+        
+        <p>
+            Proficient in web development using HTML, CSS, and JavaScript to create user-friendly and visually appealing
+            websites. Eager to contribute to a dynamic team and enhance coding abilities while delivering innovative and
+            efficient web solutions for a seamless user experience.
+        </p>
+        </div>
+
+        <h2>
+            Skills
+        </h2>
+        <hr>
+
+        <div>
+            <b>Technoligies : </b> Java,HTML,CSS
+            <br><br>
+            <b>Tools and Platforms : </b> Github
+            <br><br>
+            <b>Soft Skills : </b> Communication,Self Motivated
+            <br><br>
+        </div>
+
+        <h2>
+            Projects
+        </h2>
+        <hr>
+
+        <div>
+            <b>Student Portfolio</b>
+            <ul type="dot">
+                <li>About student profile</li>
+                <li>Tools used : HTML,CSS</li>
+            </ul>
+
+            <b>GUI - Calculator</b>
+            <ul type="dot">
+                <li>About student CGPA</li>
+                <li>Tools used : Java</li>
+            </ul>
+        </div>
+
+        <h2>Certifications</h2>
+        <hr>
+        <div>
+            <b>
+                Python Programming from Edyst <br><br>
+                Salesforce virtual internship <br><br>
+                Certificate of merit at IIIT HYDERBAD Summer internship
+            </b>
+        </div>
+
+        <h2>Achievements</h2>
+        <hr>
+        <div>
+            <b> Participated in the 24-hour hackathon program </b>     
+         </div>
+         <br><br>
+
+         <div>
+            <h2>Contact me</h2>
+            <ul>
+                <li>Email : bmanikanta1357@gmail.com</li>
+                <li>github : github.com/manikantagubbala</li>
+                <li>phone : 8978411298</li>
+            </ul>
+         </div>
+
+         <div align="center" >
+            <input placeholder="Message*">
+            <button type="submit">Send</button>
+         </div>
+</body>
+</html>
