@@ -1,0 +1,31 @@
+body{
+    background-color:whitesmoke;
+}
+
+h1{
+    text-align: center;
+}
+
+.navi{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: whitesmoke;
+}
+
+table{
+    width: 100%;
+    padding: 10px;
+}
+
+.pdata{
+    width: 60%;
+}
+
+img{
+    border-radius: 50%;
+}
+
+div{
+    background-color:lightgrey;
+    border-radius: 10px;
+}
+
